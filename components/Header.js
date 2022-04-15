@@ -28,13 +28,12 @@ function Header() {
         </div>
       </div>
 
-      {/* middle */}
 
       {/* right */}
       <div className="flex items-center space-x-4 justify-end text-white">
         <p className="hidden md:inline-flex cursor-pointer">Login</p>
         <p className="hidden md:inline-flex cursor-pointer">Cart</p>
-        {/* <GlobeAltIcon className="hover:animate-spin h-6 cursor-pointer" /> */}
+     
         
       </div>
     </header>

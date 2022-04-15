@@ -1,13 +1,5 @@
 import Image from "next/image";
 
-import {
-  SearchIcon,
-  GlobeAltIcon,
-  MenuIcon,
-  UserCircleIcon,
-  UserIcon,
-} from "@heroicons/react/solid";
-
 function Banner() {
   return (
     <div className="relative  h-[300px] sm:h-[400px] lg:h-[500px] xl:h-[600px] ">

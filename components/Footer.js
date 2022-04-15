@@ -20,15 +20,7 @@ function Footer() {
         </p>
       </div>
 
-      {/* <div>
-        <h2>Sustainability</h2>
-        <p className="text-xs mb-4">
-          All Aesop products are vegan, and we do not test our formulations or
-          ingredients on animals. We are Leaping Bunny approved and a Certified
-          B Corporation. Learn more
-        </p>
-      </div> */}
-      <h2></h2>
+     <h2></h2>
 
       <div className="space-y-4 text-xs 2xl:ml-10 text-white">
         <h5 className="font-bold">Orders & support</h5>
