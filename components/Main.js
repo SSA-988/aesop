@@ -10,7 +10,7 @@ function Main() {
           alt=""
         />
       </div>
-      <div className="mr-6 ml-6 mt-6 md:mt-0 mx-auto space-y-4">
+      <div className="pl-5 pr-5 md:pl-20 mt-5 md:mt-0  md:mt-0 md:mr-0 md:ml-0  space-y-4">
         <h3>Limited Release</h3>
 
         <h1 className="text-2xl font-bold">Stoic Aromatique Candle</h1>
