@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <div className="pl-10  grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 space-y-9 py-10 bg-stone-600">
-      <div>
+      <div className="mr-6 lg:mr-0">
         <input
           className="w-full outline-none border-2 border-white text-black bg-stone-600 h-8"
           type="text"

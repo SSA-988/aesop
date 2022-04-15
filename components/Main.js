@@ -3,14 +3,14 @@ import React from 'react'
 function Main() {
   return (
     <div className="flex flex-col m-2 md:grid grid-cols-2 mb-20 mt-20 ">
-      <div className="pl-4">
+      <div className="pl-4 pr-4">
         <img
 
           src="https://www.aesop.com/u1nb1km7t5q7/5p4kQ5J36JqP6pf14suXYn/fe1defbf3eb5029dde3de9512b8bbc95/Aesop_Rick_Owens_2022_Web_Homepage_Secondary_2_Mid_Desktop_2560x1440px.jpg"
           alt=""
         />
       </div>
-      <div className=" mt-6 md:mt-0 mx-auto space-y-4">
+      <div className="mr-6 ml-6 mt-6 md:mt-0 mx-auto space-y-4">
         <h3>Limited Release</h3>
 
         <h1 className="text-2xl font-bold">Stoic Aromatique Candle</h1>
